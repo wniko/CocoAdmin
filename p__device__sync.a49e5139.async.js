@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[8],{gVDx:function(n,t,e){"use strict";e.r(t);var a=e("q1tI"),c=e.n(a),i=e("5/0J"),o=function(){return c.a.createElement(i["a"],{title:"\u4e91\u673a\u540c\u6b65"})};t["default"]=o}}]);
