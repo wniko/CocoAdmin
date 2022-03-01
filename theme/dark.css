@@ -31756,7 +31756,7 @@ div.ant-typography-edit-content.ant-typography-rtl {
 
 @media screen and (max-width:1024px) {
     .antd-pro-pages-user-login-style-title {
-        font-size: 26px;
+        font-size: 0px;
         line-height: 28px
     }
 }
