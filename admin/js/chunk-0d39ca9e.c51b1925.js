@@ -2556,7 +2556,7 @@
                                                     [e._v(" " + e._s(t.productDays) + "天" + e._s(t.userProductPrice) + "元")])
                                             })), 1)], 1), s("el-form-item", {
                                             attrs: {
-                                                label: "订购数量"
+                                                label: "订购数量1"
                                             }
                                         },
                                         [s("el-input-number", {
@@ -4010,7 +4010,7 @@
                                         },
                                         [e._v("30天")])], 1)], 1), s("el-form-item", {
                                     attrs: {
-                                        label: "订购数量"
+                                        label: "订购数量2"
                                     }
                                 },
                                 [s("el-input-number", {
@@ -4394,7 +4394,7 @@
                                                     [e._v(" " + e._s(t.productDays) + "天" + e._s(t.userProductPrice) + "元")])
                                             })), 1)], 1), s("el-form-item", {
                                             attrs: {
-                                                label: "订购数量"
+                                                label: "订购数量3"
                                             }
                                         },
                                         [s("el-input-number", {
