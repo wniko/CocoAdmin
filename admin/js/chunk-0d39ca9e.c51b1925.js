@@ -1198,7 +1198,7 @@
                     })), s("el-dialog", {
                             attrs: {
                                 visible: e.appInstallDialogVisible,
-                                title: "上传应用1",
+                                title: "上传应用",
                                 "custom-class": "upload-dialog",
                                 width: "520px",
                                 "close-on-click-modal": !1
@@ -1381,7 +1381,7 @@
                                         "margin-right": "20px"
                                     }
                                 },
-                                [e._v("安装应用需先将应用上传, 成功以后可以在这里进行安装即可")]) : e._e(), "upload" === e.appListTab ? s("el-button", {
+                                [e._v("安装应用需先将应用上传, 成功以后可以在这里进行安装即可！")]) : e._e(), "upload" === e.appListTab ? s("el-button", {
                                     attrs: {
                                         size: "small",
                                         type: "primary"
